@@ -1,1 +1,1 @@
-test doc [test](../assets/test.zip)
+test doc <a href="../assets/test.zip" download>test</a>
