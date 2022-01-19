@@ -1,1 +1,1 @@
-test doc <a href="../assets/test.zip" download>test</a>
+test doc <a href="https://github.com/ikewai/HIGRE-workshop/raw/main/assets/test.zip" download>test</a>
