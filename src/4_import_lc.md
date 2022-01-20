@@ -5,12 +5,12 @@ Insead of using shapes to modify land cover in the application, land-cover grids
 
 Provided are six land cover scenario files representing different types of development around Pearl Harbor.
 
-1. [Corridor Development: Scenario 1](https://github.com/ikewai/HIGRE-workshop/blob/main/assets/ph_75m_s1.asc)
-2. [Corridor Development: Scenario 2](https://github.com/ikewai/HIGRE-workshop/blob/main/assets/ph_75m_s2.asc)
-3. [Corridor Development: Scenario 3](https://github.com/ikewai/HIGRE-workshop/blob/main/assets/ph_75m_s3.asc)
-4. [Sprawl Development: Scenario 4](https://github.com/ikewai/HIGRE-workshop/blob/main/assets/ph_75m_s4.asc)
-5. [Sprawl Development: Scenario 5](https://github.com/ikewai/HIGRE-workshop/blob/main/assets/ph_75m_s5.asc)
-6. [Sprawl Development: Scenario 6](https://github.com/ikewai/HIGRE-workshop/blob/main/assets/ph_75m_s6.asc)
+1. [Corridor Development: Scenario 1](https://github.com/ikewai/HIGRE-workshop/raw/main/assets/ph_75m_s1.asc)
+2. [Corridor Development: Scenario 2](https://github.com/ikewai/HIGRE-workshop/raw/main/assets/ph_75m_s2.asc)
+3. [Corridor Development: Scenario 3](https://github.com/ikewai/HIGRE-workshop/raw/main/assets/ph_75m_s3.asc)
+4. [Sprawl Development: Scenario 4](https://github.com/ikewai/HIGRE-workshop/raw/main/assets/ph_75m_s4.asc)
+5. [Sprawl Development: Scenario 5](https://github.com/ikewai/HIGRE-workshop/raw/main/assets/ph_75m_s5.asc)
+6. [Sprawl Development: Scenario 6](https://github.com/ikewai/HIGRE-workshop/raw/main/assets/ph_75m_s6.asc)
 
 The first three of these land-cover scenarios represent heavy development around the rail corridor (Figure 1) while the latter three represent more dispersed development (Figure 2). Each of these groups includes a scenario for high levels of protection, targeted protection, and no protection for surrounding forests.
 
@@ -42,6 +42,6 @@ Now import scenario 3 into the same map (without the overwrite option selected).
 
 ---
 
-[Previous: Importing Custom Areas](./3_import_areas.md)
+[Previous: Importing Land-Cover Scenarios](./4_import_lc.md)
 
 [Next: Application State Export/Import](./5_application_state.md)

@@ -3,7 +3,7 @@
 
 Instead of defining custom areas by drawing them using the built-in tools, custom areas can be imported into the application with a shapefile.
 
-An example shapefile can be found [here](https://github.com/ikewai/HIGRE-workshop/blob/main/assets/area_data.zip).
+An example shapefile can be found [here](https://github.com/ikewai/HIGRE-workshop/raw/main/assets/area_data.zip).
 
 To import this into the application, click the "Import" button under the section "Load/Save Changes" in the right panel.
 
