@@ -44,4 +44,4 @@ Now import scenario 3 into the same map (without the overwrite option selected).
 
 [Previous: Importing Land-Cover Scenarios](./4_import_lc.md)
 
-[Next: Application State Export/Import](./5_application_state.md)
+[Next: Map State Export/Import](./5_map_state.md)
