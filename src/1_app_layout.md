@@ -1,7 +1,7 @@
 
 # Application Layout
 
-The Hawaii Groundwater Recharge Tool uses a multi-document interface allowing multiple map instances to be brought up and manipulated at the same time. New map instances can be opened by clicking the "New Map" button in the upper left corner of the workspace.
+The Hawaiʻi Groundwater Recharge Tool uses a multi-document interface allowing multiple map instances to be brought up and manipulated at the same time. New map instances can be opened by clicking the "New Map" button in the upper left corner of the workspace.
 
 There are two main visualization types available:
 

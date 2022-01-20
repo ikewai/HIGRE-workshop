@@ -1,7 +1,7 @@
 
 # Built-in Tools
 
-The Hawaii Groundwater Recharge Tool provides users with tools for modifying land-cover and defining areas of interest directly from the in-tool map using leaflet's drawing tools.
+The Hawaiʻi Groundwater Recharge Tool provides users with tools for modifying land-cover and defining areas of interest directly from the in-tool map using leaflet's drawing tools.
 
 ## Defining Custom Areas
 

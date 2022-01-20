@@ -1,7 +1,7 @@
 
 # Importing Land-Cover Scenarios
 
-Insead of using shapes to modify land cover in the application, land-cover grids can be created externally and imported into the application for analysis.
+Instead of using shapes to modify land cover in the application, land-cover grids can be created externally and imported into the application for analysis.
 
 Provided are six land cover scenario files representing different types of development around Pearl Harbor.
 
@@ -24,7 +24,7 @@ As an example, we will import scenario one and three side by side for comparison
 
 ## Importing Scenarios
 
-Once you have scenarios 1 and 3 downloaded from the above links, click the "New Map" button to bring up a second map. On the first map click the "Import" button on the right panel and select "Import Land Cover Raster" in the pop up dialog and click "Select Files". Select the scenario 1 file. Repeat this process on the second map with the scenario 3 file.
+Once you have scenarios 1 and 3 downloaded from the above links, click the "New Map" button to bring up a second map. On the first map click the "Import" button on the right panel and select "Import Land Cover Raster" in the pop-up dialog and click "Select Files". Select the scenario 1 file. Repeat this process on the second map with the scenario 3 file.
 
 **NOTE** Scenario 3 will pop up a warning message saying that background cells were modified. You can ignore this message. The tool will not modifications made to map cells designated as "background" (ocean).
 
